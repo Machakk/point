@@ -1,3 +1,10 @@
 body {
   margin: 0;
+  background: linear-gradient(to top, #ccc to #fff);
+  min-height: 100vh;
 }
+
+img mgib {
+  border-radius: 50%;
+}
+
