@@ -1,1 +1,1 @@
-[a link] (point.github.io)
+[think] (point.github.io)
